@@ -8,4 +8,4 @@ To resolve this, the engineering team is building a scalable **Data Lakehouse on
 ## Solution Architecture
 The following diagram illustrates the data flow from Warrior’s raw S3 buckets through the Medallion architecture (Bronze, Silver, Gold) and into the unified Sports Direct Unity Catalog.
 
-![Warrior Acquisition Solution Architecture](https://github.com/jay-peddi-1299/Warrior-Acquisition-Unified-Databricks-Lakehouse-Integration/blob/main/solution-architecture.png)
+![Warrior Acquisition Solution Architecture](https://github.com/jay-peddi-1299/Warrior-Acquisition-Unified-Databricks-Lakehouse-Integration/blob/main/images/solution-architecture.png)
