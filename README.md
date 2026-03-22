@@ -27,7 +27,7 @@ The final "Gold" layer feeds into a high-visibility Sales Performance Dashboard,
 *Figure 3: The executive dashboard displaying **119.93B in Total Revenue** and identifying "PX Grip Cricket Batting Gloves" as a top product.*
 
 ## Ad-hoc Analysis with Databricks Genie
-Stakeholders can use **Databricks Genie** to query the unified dataset using natural language. This tool translates business questions directly into optimized SQL queries.
+Stakeholders can now use Databricks Genie to query the unified dataset using natural language. This tool translates business questions into optimized SQL queries, executes them, and provides answers in both text and visuals.
 
 ![Genie Ad-hoc Space](https://github.com/jay-peddi-1299/Warrior-Acquisition-Unified-Databricks-Lakehouse-Integration/blob/main/04-images/genie-sample-query-result.png)
 
